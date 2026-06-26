@@ -1,25 +1,20 @@
 <div align="center">
 
-<!-- Custom Banner SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20%26%20Flutter%20Developer%20%7C%20AdMob%20%2F%20AdX%20Expert&descAlignY=58&descSize=18&animation=fadeIn" />
+# 👋 Hi, I'm Muhammad Huzaifa
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=📱+Android+%26+Flutter+Developer;💰+Google+AdX+%2F+AdMob+Monetization+Expert;🛡️+Play+Console+Policy+Fix+Specialist;🚀+Turning+Ideas+into+Revenue-Generating+Apps" alt="Typing SVG" />
+### `Android & Flutter Developer` · `AdMob / AdX Expert` · `Play Console Specialist`
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=📱+Android+%26+Flutter+Developer;💰+Google+AdX+%2F+AdMob+Expert;🛡️+Play+Console+Policy+Fix+Specialist;🚀+Building+Revenue-Generating+Apps)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Live Badges Row -->
-<a href="https://komarev.com/ghpvc/?username=thexhuzaifa">
-  <img src="https://komarev.com/ghpvc/?username=thexhuzaifa&style=flat-square&color=7C3AED&label=👁️+PROFILE+VIEWS" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=thexhuzaifa&style=flat-square&color=7C3AED&label=Profile+Views)
 &nbsp;
-<img src="https://img.shields.io/github/followers/thexhuzaifa?style=flat-square&color=6D28D9&label=FOLLOWERS&logo=github&logoColor=white" />
+![Followers](https://img.shields.io/github/followers/thexhuzaifa?style=flat-square&color=7C3AED&label=Followers&logo=github&logoColor=white)
 &nbsp;
-<a href="https://www.fiverr.com/thexhuzaifa">
-  <img src="https://img.shields.io/badge/🛒_FIVERR-HIRE_ME-1DBF73?style=flat-square" />
-</a>
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/thexhuzaifa)
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-7C3AED?style=flat-square" />
+![Status](https://img.shields.io/badge/Status-Open_to_Work-7C3AED?style=flat-square)
 
 </div>
 
@@ -30,26 +25,26 @@
 ```kotlin
 object MuhammadHuzaifa : Developer() {
 
-    val name        = "Muhammad Huzaifa"
-    val alias       = "thexhuzaifa"
-    val location    = "Faisalabad, Pakistan 🇵🇰 · Available Worldwide"
-    val education   = "BS Software Engineering · 4th Semester"
-    val fiverr      = "fiverr.com/thexhuzaifa"
+    val name       = "Muhammad Huzaifa"
+    val alias      = "thexhuzaifa"
+    val location   = "Faisalabad, Pakistan 🇵🇰  ·  Available Worldwide"
+    val education  = "BS Software Engineering  ·  4th Semester"
+    val fiverr     = "fiverr.com/thexhuzaifa"
 
-    // ── Mobile ────────────────────────────────────────────────
+    // ── Mobile ─────────────────────────────────────────────────────
     val mobile = MobileStack(
         languages = listOf("Kotlin", "Dart", "Java"),
         ui        = "Jetpack Compose · Material Design 3 · Flutter",
         arch      = "MVVM · Clean Architecture · BLoC"
     )
 
-    // ── Monetization ──────────────────────────────────────────
+    // ── Monetization ───────────────────────────────────────────────
     val monetization = AdExpert(
-        networks  = listOf("Google AdX (MCM)", "AdMob", "Unity Ads", "Meta AN"),
-        services  = listOf("MCM Partnership Setup", "AdX Integration", "eCPM Optimization")
+        networks = listOf("Google AdX (MCM)", "AdMob", "Unity Ads", "Meta AN"),
+        services = listOf("MCM Partnership Setup", "AdX Integration", "eCPM Optimization")
     )
 
-    // ── Specialties ───────────────────────────────────────────
+    // ── Specialties ────────────────────────────────────────────────
     val specialties = listOf(
         "Play Console Policy Violation Fixes",
         "App Monetization from Zero to Revenue",
@@ -67,7 +62,7 @@ object MuhammadHuzaifa : Developer() {
 
 <div align="center">
 
-**📱 Mobile Development**
+**📱 Mobile**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -79,15 +74,15 @@ object MuhammadHuzaifa : Developer() {
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Room](https://img.shields.io/badge/Room_DB-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room_DB-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **💰 Ad Monetization**
 
-![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Google Ad Manager](https://img.shields.io/badge/Google_Ad_Manager_(AdX)-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![AdX](https://img.shields.io/badge/Google_AdX_(MCM)-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Unity Ads](https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Meta Audience Network](https://img.shields.io/badge/Meta_AN-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Meta AN](https://img.shields.io/badge/Meta_Audience_Network-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
 **🔧 Tools**
 
@@ -104,12 +99,13 @@ object MuhammadHuzaifa : Developer() {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thexhuzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=A78BFA" />
-<img width="48%" src="https://streak-stats.demolab.com?user=thexhuzaifa&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=thexhuzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=A78BFA" />
+&nbsp;&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=thexhuzaifa&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexhuzaifa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexhuzaifa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA" />
 
 </div>
 
@@ -117,65 +113,43 @@ object MuhammadHuzaifa : Developer() {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🛠️ Stack |
-|:-----------|:--------------|:---------|
-| 🧠 **QuizMaster AI** | MCQ-solving app using Camera OCR + AI — solve exam questions instantly | Kotlin · ML Kit · Gemini AI |
-| 🎮 **FreeUC** | PUBG reward app — earn points via rewarded ads, redeem as UC | Kotlin · Jetpack Compose · Firebase · AdMob |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🧠 **QuizMaster AI** | MCQ-solving app using Camera OCR + Gemini AI — solve exam questions instantly | Kotlin · ML Kit · Gemini |
+| 🎮 **FreeUC** | PUBG reward app — earn points via rewarded ads, redeem as UC | Kotlin · Compose · Firebase · AdMob |
 | 📄 **1Click PDF Maker** | All-in-one PDF creation, editing & export app | Flutter · Dart · Material 3 |
 | 🎰 **PUBG Reward Hub** | Spin wheel · Scratch card · Crate opening mechanics | Kotlin · Compose · Unity Ads |
-| 🔌 **ProxyConnector Pro** | Chrome extension for smart proxy switching with socket pool flush | JavaScript · Chrome API |
-
-</div>
+| 🔌 **ProxyConnector Pro** | Chrome extension for smart proxy switching | JavaScript · Chrome API |
 
 ---
 
-## 💼 Fiverr Services
-
-<div align="center">
+## 💼 My Services on Fiverr
 
 > 🔗 **[fiverr.com/thexhuzaifa](https://www.fiverr.com/thexhuzaifa)**
 
-</div>
-
-| 🎯 Service | ✅ What You Get |
-|:-----------|:---------------|
-| 📱 **Android & Flutter Development** | Clean Architecture apps, Kotlin / Flutter, Firebase integration |
-| 💰 **AdMob / Google AdX Setup** | Full MCM setup, AdX integration, ad unit config, eCPM boost |
-| 🛡️ **Play Console Policy Fixes** | Resolve violations fast — deceptive behavior, spam, metadata |
-| 🐛 **App Bug Fixing** | Crashes, ANRs, memory leaks, Gradle issues — all fixed |
-| 🌐 **Web AdSense / AdX Monetization** | Site-level AdX integration, invalid traffic management |
+| Service | Details |
+|:--------|:--------|
+| 📱 **Android & Flutter Development** | Clean arch apps, Kotlin / Flutter, Firebase |
+| 💰 **AdMob / Google AdX Setup** | MCM setup, AdX integration, eCPM boost |
+| 🛡️ **Play Console Policy Fixes** | Deceptive behavior, spam, metadata violations |
+| 🐛 **App Bug Fixing** | Crashes, ANRs, memory leaks, Gradle issues |
+| 🌐 **Web AdSense / AdX Monetization** | AdX integration, IVT management |
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://www.fiverr.com/thexhuzaifa">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thexhuzaifa)
 &nbsp;
-<a href="mailto:thexhuzaifa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thexhuzaifa@gmail.com)
 &nbsp;
-<a href="https://www.linkedin.com/in/thexhuzaifa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thexhuzaifa/)
 &nbsp;
-<a href="https://github.com/thexhuzaifa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thexhuzaifa)
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<br/>
 
 *"Build it. Ship it. Monetize it."* 🚀
 
