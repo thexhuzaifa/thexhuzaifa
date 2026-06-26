@@ -28,7 +28,7 @@ object MuhammadHuzaifa : Developer() {
     val name       = "Muhammad Huzaifa"
     val alias      = "thexhuzaifa"
     val location   = "Faisalabad, Pakistan 🇵🇰  ·  Available Worldwide"
-    val education  = "BS Software Engineering  ·  4th Semester"
+    val education  = "MS Software Engineering"
     val fiverr     = "fiverr.com/thexhuzaifa"
 
     // ── Mobile ─────────────────────────────────────────────────────
@@ -116,9 +116,8 @@ object MuhammadHuzaifa : Developer() {
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 🧠 **QuizMaster AI** | MCQ-solving app using Camera OCR + Gemini AI — solve exam questions instantly | Kotlin · ML Kit · Gemini |
-| 🎮 **FreeUC** | PUBG reward app — earn points via rewarded ads, redeem as UC | Kotlin · Compose · Firebase · AdMob |
+| 🎮 **UCMAX** | PUBG reward app — earn points via rewarded ads, redeem as UC | Kotlin · Compose · Firebase · AdMob |
 | 📄 **1Click PDF Maker** | All-in-one PDF creation, editing & export app | Flutter · Dart · Material 3 |
-| 🎰 **PUBG Reward Hub** | Spin wheel · Scratch card · Crate opening mechanics | Kotlin · Compose · Unity Ads |
 | 🔌 **ProxyConnector Pro** | Chrome extension for smart proxy switching | JavaScript · Chrome API |
 
 ---
