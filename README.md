@@ -1,14 +1,25 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Huzaifa+👋;Android+%26+Flutter+Developer;AdMob+%2F+AdX+Monetization+Expert;Building+things+that+matter+🚀" alt="Typing SVG" />
+<!-- Custom Banner SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Android%20%26%20Flutter%20Developer%20%7C%20AdMob%20%2F%20AdX%20Expert&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=📱+Android+%26+Flutter+Developer;💰+Google+AdX+%2F+AdMob+Monetization+Expert;🛡️+Play+Console+Policy+Fix+Specialist;🚀+Turning+Ideas+into+Revenue-Generating+Apps" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=thexhuzaifa&style=flat-square&color=6C63FF&label=Profile+Views" />
+<!-- Live Badges Row -->
+<a href="https://komarev.com/ghpvc/?username=thexhuzaifa">
+  <img src="https://komarev.com/ghpvc/?username=thexhuzaifa&style=flat-square&color=7C3AED&label=👁️+PROFILE+VIEWS" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/thexhuzaifa?style=flat-square&color=6C63FF&label=Followers" />
+<img src="https://img.shields.io/github/followers/thexhuzaifa?style=flat-square&color=6D28D9&label=FOLLOWERS&logo=github&logoColor=white" />
+&nbsp;
+<a href="https://www.fiverr.com/thexhuzaifa">
+  <img src="https://img.shields.io/badge/🛒_FIVERR-HIRE_ME-1DBF73?style=flat-square" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-7C3AED?style=flat-square" />
 
 </div>
 
@@ -16,20 +27,39 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name       : Muhammad Huzaifa
-location   : Faisalabad, Pakistan 🇵🇰
-role       : Android & Flutter Developer | AdMob / AdX Expert
-education  : BS Software Engineering (4th Semester)
-freelance  : Available on Fiverr 🛒
-```
+```kotlin
+object MuhammadHuzaifa : Developer() {
 
-- 📱 Building **Android & Flutter** apps with clean architecture
-- 💰 Specialized in **AdMob, Google AdX (MCM), Unity Ads & Meta Audience Network** monetization
-- 🛠️ Fixing **Google Play Console** policy violations & app bugs
-- 🌐 Running monetized web properties with **AdSense / AdX**
-- 🎯 Currently building **QuizMaster AI** & **FreeUC** reward apps
-- 🇩🇪 Learning **German** (working towards C1)
+    val name        = "Muhammad Huzaifa"
+    val alias       = "thexhuzaifa"
+    val location    = "Faisalabad, Pakistan 🇵🇰 · Available Worldwide"
+    val education   = "BS Software Engineering · 4th Semester"
+    val fiverr      = "fiverr.com/thexhuzaifa"
+
+    // ── Mobile ────────────────────────────────────────────────
+    val mobile = MobileStack(
+        languages = listOf("Kotlin", "Dart", "Java"),
+        ui        = "Jetpack Compose · Material Design 3 · Flutter",
+        arch      = "MVVM · Clean Architecture · BLoC"
+    )
+
+    // ── Monetization ──────────────────────────────────────────
+    val monetization = AdExpert(
+        networks  = listOf("Google AdX (MCM)", "AdMob", "Unity Ads", "Meta AN"),
+        services  = listOf("MCM Partnership Setup", "AdX Integration", "eCPM Optimization")
+    )
+
+    // ── Specialties ───────────────────────────────────────────
+    val specialties = listOf(
+        "Play Console Policy Violation Fixes",
+        "App Monetization from Zero to Revenue",
+        "AdSense / AdX Web Monetization",
+        "Firebase · Supabase Integration"
+    )
+
+    val status = "🟢 Open to Work · Instantly Available"
+}
+```
 
 ---
 
@@ -37,7 +67,7 @@ freelance  : Available on Fiverr 🛒
 
 <div align="center">
 
-**Mobile Development**
+**📱 Mobile Development**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -45,24 +75,26 @@ freelance  : Available on Fiverr 🛒
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-**Backend & Database**
+**☁️ Backend & Database**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Room](https://img.shields.io/badge/Room_DB-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Monetization & Ads**
+**💰 Ad Monetization**
 
-![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Google Ad Manager](https://img.shields.io/badge/Google_Ad_Manager-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AdSense](https://img.shields.io/badge/Google_AdSense-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![Google Ad Manager](https://img.shields.io/badge/Google_Ad_Manager_(AdX)-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Unity Ads](https://img.shields.io/badge/Unity_Ads-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Meta Audience Network](https://img.shields.io/badge/Meta_AN-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 
-**Tools & Platforms**
+**🔧 Tools**
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Play Console](https://img.shields.io/badge/Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -72,12 +104,12 @@ freelance  : Available on Fiverr 🛒
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thexhuzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thexhuzaifa&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thexhuzaifa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=A78BFA" />
+<img width="48%" src="https://streak-stats.demolab.com?user=thexhuzaifa&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexhuzaifa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexhuzaifa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA" />
 
 </div>
 
@@ -85,35 +117,57 @@ freelance  : Available on Fiverr 🛒
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 **QuizMaster AI** | MCQ-solving app with camera OCR + AI | Kotlin, ML Kit, Gemini |
-| 🎮 **FreeUC** | PUBG reward app — earn points via ads, redeem UC | Kotlin, Firebase, AdMob |
-| 📄 **1Click PDF Maker** | Full-featured PDF creation & editing app | Flutter, Dart |
-| 🔌 **ProxyConnector Pro** | Chrome extension for smart proxy switching | JavaScript, Chrome API |
+<div align="center">
+
+| 🏷️ Project | 📝 Description | 🛠️ Stack |
+|:-----------|:--------------|:---------|
+| 🧠 **QuizMaster AI** | MCQ-solving app using Camera OCR + AI — solve exam questions instantly | Kotlin · ML Kit · Gemini AI |
+| 🎮 **FreeUC** | PUBG reward app — earn points via rewarded ads, redeem as UC | Kotlin · Jetpack Compose · Firebase · AdMob |
+| 📄 **1Click PDF Maker** | All-in-one PDF creation, editing & export app | Flutter · Dart · Material 3 |
+| 🎰 **PUBG Reward Hub** | Spin wheel · Scratch card · Crate opening mechanics | Kotlin · Compose · Unity Ads |
+| 🔌 **ProxyConnector Pro** | Chrome extension for smart proxy switching with socket pool flush | JavaScript · Chrome API |
+
+</div>
 
 ---
 
-## 💼 My Services on Fiverr
-
-> **🔥 Find me on Fiverr: `Muhammad Huzaifa`**
-
-- ✅ Android & Flutter App Development
-- ✅ AdMob / Google AdX (MCM) Monetization Setup
-- ✅ Google Play Console Policy Violation Fixes
-- ✅ App Bug Fixing & Performance Optimization
-- ✅ AdSense / AdX Website Monetization
-
----
-
-## 📫 Connect With Me
+## 💼 Fiverr Services
 
 <div align="center">
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thexhuzaifa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thexhuzaifa)
+> 🔗 **[fiverr.com/thexhuzaifa](https://www.fiverr.com/thexhuzaifa)**
+
+</div>
+
+| 🎯 Service | ✅ What You Get |
+|:-----------|:---------------|
+| 📱 **Android & Flutter Development** | Clean Architecture apps, Kotlin / Flutter, Firebase integration |
+| 💰 **AdMob / Google AdX Setup** | Full MCM setup, AdX integration, ad unit config, eCPM boost |
+| 🛡️ **Play Console Policy Fixes** | Resolve violations fast — deceptive behavior, spam, metadata |
+| 🐛 **App Bug Fixing** | Crashes, ANRs, memory leaks, Gradle issues — all fixed |
+| 🌐 **Web AdSense / AdX Monetization** | Site-level AdX integration, invalid traffic management |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.fiverr.com/thexhuzaifa">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:thexhuzaifa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/thexhuzaifa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/thexhuzaifa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -121,6 +175,8 @@ freelance  : Available on Fiverr 🛒
 
 <div align="center">
 
-*"Code. Ship. Monetize. Repeat."* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+
+*"Build it. Ship it. Monetize it."* 🚀
 
 </div>
